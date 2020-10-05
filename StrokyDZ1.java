@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-// Плохо понял это задание, к тому же на строчке 33 слово не читается
+// Доделаю во вторник (скорее всего), сейчас ничего не работает
 public class StrokyDZ1 {
     public static void main(String[] args) {
        String[] fruit = new String[6];
